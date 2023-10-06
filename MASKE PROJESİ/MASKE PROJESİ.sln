@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASKE PROJESİ", "MASKE PROJESİ\MASKE PROJESİ.csproj", "{EACC04B0-901A-4D01-97CB-198D01336757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACC04B0-901A-4D01-97CB-198D01336757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACC04B0-901A-4D01-97CB-198D01336757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACC04B0-901A-4D01-97CB-198D01336757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACC04B0-901A-4D01-97CB-198D01336757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9068B0-C254-45CB-BB06-10E865941C4B}
+	EndGlobalSection
+EndGlobal
